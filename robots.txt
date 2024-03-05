@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.elkart.in/superjp.html/sitemap.xml
+Sitemap: https://ftp.elkart.in/gilajp.html/sitemap.xml
+Sitemap: https://ftp.elkart.in/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.elkart.in/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.elkart.in/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.elkart.in/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.elkart.in/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.elkart.in/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.elkart.in/pakong86.html/sitemap.xml
+Sitemap: https://ftp.elkart.in/viral88.html/sitemap.xml
+Sitemap: https://ftp.elkart.in/clan4d.html/sitemap.xml
+Sitemap: https://ftp.elkart.in/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.elkart.in/elang212.html/sitemap.xml
+Sitemap: https://ftp.elkart.in/gori77.html/sitemap.xml
+Sitemap: https://ftp.elkart.in/viral4d.html/sitemap.xml
+Sitemap: https://ftp.elkart.in/playground88.html/sitemap.xml
